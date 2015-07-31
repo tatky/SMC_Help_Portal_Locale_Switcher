@@ -6,7 +6,7 @@
   chrome.extension.sendRequest({}, function(res) {});
 
   chrome.storage.sync.get({
-    locale1: 'ja-JP',
+    locale1: chrome.i18n.getUILanguage(),
     locale2: 'en',
     isicenabled: true,
   }, function(items) {

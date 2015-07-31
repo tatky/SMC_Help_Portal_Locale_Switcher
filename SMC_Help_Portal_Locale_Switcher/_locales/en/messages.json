@@ -1,0 +1,14 @@
+{
+    "msg0001": {
+        "description": "", 
+        "message": "SMC Help Portal Locale Switcher"
+    }, 
+    "msg0002": {
+        "description": "", 
+        "message": "Locale Switcher for SMC(Salesforce Marketing Cloud ExactTarget) Help Portal"
+    }, 
+    "msg0003": {
+        "description": "", 
+        "message": "SMC Help Portal Locale Switcher"
+    }
+}

@@ -10,7 +10,7 @@
     chrome.tabs.getSelected(null, function(tab){
       var a = tab.url.match("(^.\.+com)(.*?)(/documentation.+|/technical_library.+)");
       chrome.storage.sync.get({
-        locale1: 'ja',
+        locale1: chrome.i18n.getUILanguage(),
         locale2: 'en',
         isicenabled: true
       }, function(items) {

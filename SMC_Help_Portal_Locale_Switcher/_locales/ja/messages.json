@@ -1,0 +1,14 @@
+{
+    "msg0001": {
+        "description": "from 'en' : SMC Help Portal Locale Switcher", 
+        "message": "SMC ヘルプポータル　言語切り替え"
+    }, 
+    "msg0002": {
+        "description": "from 'en' : Locale Switcher for SMC(Salesforce Marketing Cloud ExactTarget) Help Portal", 
+        "message": "SMC(Salesforce Marketing Cloud ExactTarget)ヘルプポータルの言語切り替えを行う拡張機能です。"
+    }, 
+    "msg0003": {
+        "description": "from 'en' : SMC Help Portal Locale Switcher", 
+        "message": "SMC ヘルプポータル　言語切り替え"
+    }
+}
