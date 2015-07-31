@@ -1,4 +1,4 @@
-# SMC Help Portal Locale_Switcher
+# SMC Help Portal Locale Switcher
 [Chrome Extension](https://chrome.google.com/webstore/detail/smc-help-portal-locale-sw/dhjoganjacjkhblhmjeocpjapomeopfc)  
 Locale Switcher for SMC(Salesforce Marketing Cloud ExactTarget)  [Help Portal](http://help.exacttarget.com/)
 
