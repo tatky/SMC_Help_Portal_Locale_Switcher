@@ -1,6 +1,6 @@
 ﻿{
   "name": "__MSG_msg0001__",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "__MSG_msg0002__",
   "default_locale": "en",
@@ -20,10 +20,10 @@
   "content_scripts" :[
     {
       "matches" : [
-        "http://help.exacttarget.com/*/documentation/*",
-        "http://help.exacttarget.com/documentation/*",
-        "http://help.exacttarget.com/*/technical_library/*",
-        "http://help.exacttarget.com/technical_library/*"
+        "http://help.marketingcloud.com/*/documentation/*",
+        "http://help.marketingcloud.com/documentation/*",
+        "http://help.marketingcloud.com/*/technical_library/*",
+        "http://help.marketingcloud.com/technical_library/*"
       ],
       "js" : ["script/content_script.js"],
       "run_at" : "document_idle",

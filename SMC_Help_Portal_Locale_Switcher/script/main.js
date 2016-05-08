@@ -1,9 +1,8 @@
 ;(function(global) {
   'use strict';
-  $('a').not()
   $('a:not([href*=document],[href*=technical_library])').attr('data-no-instant', true);
   var j = document.createElement("script");
-  j.src = "//instantclick.io/v3.1.0/instantclick.min.js";
+  j.src = "//cdn.jsdelivr.net/instantclick/3.1.0/instantclick.min.js";
   document.body.insertBefore(j, document.body.lastChild.nextSibling);
   j.onload = function(e){
     var j2 = document.createElement("script");
